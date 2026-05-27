@@ -126,7 +126,7 @@ Updated
 
 
 ```log
-# 請在此處貼上 git log 內容
+# 6d8b841 (HEAD -> master) 新增考試作答區與題目說明文件，包含原始碼分析、Vibe-Coding 協作紀錄及測試驗證步驟
 ```
 
 ### 4.2. GitHub Repository 連結(此小題7分)
@@ -134,7 +134,7 @@ Updated
 將專案推送到 GitHub (Public) 若提交到 Private 連結不給分。 請設定 Repository 名稱為 `學號-0527-Final` Ex: B11526748-0527-Final **請用 - 不是 _**
 
 ```log
-# 請貼上你的 Repo 網址
+# https://github.com/Yucu0617/B11409015-0527-Final
 ```
 
 希望這兩份 Markdown 格式能幫你省下不少排版時間！祝你的考試順利舉行！
